@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/sarthakgupta/Desktop/Github Repos/Screenshot 2023-06-16 at 2.13.50 PM.png",
+      "program": "/Users/sarthakgupta/Desktop/Github Repos/Screenshot 2023-06-16 at 2.13.50 PM.png/build/Debug/outDebug"
+    }
+  ]
+}
